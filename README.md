@@ -1,5 +1,5 @@
-# Welcome to Your Miaoda Project
-Miaoda Application Link URL
+# Welcome to Your Edtech Project
+Edtech Application Link URL
     URL:https://medo.dev/projects/app-7tljp05k9fr5
 
 # Welcome to Your Edtech Project
