@@ -2,7 +2,7 @@
 Miaoda Application Link URL
     URL:https://medo.dev/projects/app-7tljp05k9fr5
 
-# Welcome to Your Miaoda Project
+# Welcome to Your Edtech Project
 
 ## Project Info
 
